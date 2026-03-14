@@ -1,0 +1,13 @@
+package com.taller.costura;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CosturaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CosturaApplication.class, args);
+	}
+
+}
