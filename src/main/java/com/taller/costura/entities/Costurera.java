@@ -4,6 +4,7 @@ import lombok.Data;
 
 @Entity
 @Data
+@Table
 public class Costurera {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

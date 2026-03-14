@@ -5,6 +5,7 @@ import java.util.List;
 
 @Entity
 @Data
+@Table
 public class Cliente {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

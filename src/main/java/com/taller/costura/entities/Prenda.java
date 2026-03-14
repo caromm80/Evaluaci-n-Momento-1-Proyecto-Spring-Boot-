@@ -4,6 +4,7 @@ import lombok.Data;
 
 @Entity
 @Data
+@Table
 public class Prenda {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
