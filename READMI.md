@@ -32,3 +32,4 @@ La aplicación utiliza **Spring Boot** y **JPA** para automatizar la gestión de
 ## 3. Gráfico del Modelo Relacional
 
 El siguiente diagrama ha sido generado automáticamente mediante la herramienta **DBeaver**, reflejando la estructura física de la base de datos:
+![Modelo Relacional Taller](diagrama.png)
